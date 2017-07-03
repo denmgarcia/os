@@ -1,0 +1,8 @@
+bin/
+env/
+obj/
+*.config
+*.pyproj
+ptvs_virtualenv_proxy.py
+readme.mht
+db.sqlite3
